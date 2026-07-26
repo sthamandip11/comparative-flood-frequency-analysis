@@ -1,0 +1,13 @@
+Distribution,Parameter,Value
+Normal,"Mean, μ",546.88116
+Normal,"Standard Deviation, σ",142.287
+Log-Normal,"Mean of ln(Q), μln",6.26966
+Log-Normal,"Standard Deviation of ln(Q), σln",0.2671
+Log-Normal,Shape,0.2671
+Log-Normal,Scale,528.29976
+Gumbel,Location,478.92379
+Gumbel,Scale,127.42212
+Log-Pearson Type III,Log Base,log10
+Log-Pearson Type III,Skewness,-0.31545
+Log-Pearson Type III,Location,2.72288
+Log-Pearson Type III,Scale,0.11582
