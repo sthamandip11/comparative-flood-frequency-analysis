@@ -1,0 +1,4 @@
+Station,Best Overall Distribution(s),Minimum Average Rank,Best KS Distribution,Lowest RMSE Distribution,All KS p-values > 0.05,All Chi-Square p-values > 0.05
+06191500,Log-Normal / Log-Pearson Type III,2.1666666666666665,Log-Pearson Type III,Log-Normal,True,True
+06192500,Log-Normal / Log-Pearson Type III,2.0,Log-Pearson Type III,Log-Normal,True,True
+06214500,Log-Normal,1.5,Log-Pearson Type III,Log-Normal,True,True
