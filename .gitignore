@@ -132,7 +132,6 @@ celerybeat-schedule
 celerybeat.pid
 
 # Redis
-*.rdb
 *.aof
 *.pid
 
