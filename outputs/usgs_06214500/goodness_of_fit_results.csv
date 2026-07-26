@@ -1,0 +1,5 @@
+Distribution,KS Statistic,KS p-value,Chi-Square Statistic,Chi-Square p-value,Degrees of Freedom,Minimum Expected Frequency,RMSE
+Normal,0.06801,0.87547,3.11268,0.37458,3,11.83333,61.36846
+Log-Normal,0.06097,0.93988,0.23944,0.97098,3,11.83333,30.08828
+Gumbel,0.0639,0.91599,0.91549,0.82169,3,11.83333,33.43672
+Log-Pearson Type III,0.04754,0.99482,0.23944,0.88717,2,11.83333,35.56511
