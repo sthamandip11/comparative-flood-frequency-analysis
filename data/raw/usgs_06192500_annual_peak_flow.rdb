@@ -1,0 +1,175 @@
+#
+# U.S. Geological Survey
+# National Water Information System
+# Retrieved: 2026-07-13 04:30:53 EDT
+#
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# More data may be available offline.
+# For more information on these data,  contact  USGS Water Data Inquiries.
+# This file contains the annual peak streamflow data.
+#
+# This information includes the following fields:
+#
+#  agency_cd     Agency Code
+#  site_no       USGS station number
+#  peak_dt       Date of peak streamflow (format YYYY-MM-DD)
+#  peak_tm       Time of peak streamflow (24 hour format, 00:00 - 23:59)
+#  peak_va       Annual peak streamflow value in cfs
+#  peak_cd       Peak Discharge-Qualification codes (see explanation below)
+#  gage_ht       Gage height for the associated peak streamflow in feet
+#  gage_ht_cd    Gage height qualification codes
+#  year_last_pk  Peak streamflow reported is the highest since this year
+#  ag_dt         Date of maximum gage-height for water year (if not concurrent with peak)
+#  ag_tm         Time of maximum gage-height for water year (if not concurrent with peak
+#  ag_gage_ht    maximum Gage height for water year in feet (if not concurrent with peak
+#  ag_gage_ht_cd maximum Gage height code
+#
+# Sites in this file include:
+#  USGS 06192500 Yellowstone River near Livingston, MT
+#
+# Peak Streamflow-Qualification Codes(peak_cd):
+#   1 ... Discharge is a Maximum Daily Average
+#   2 ... Discharge is an Estimate
+#   3 ... Discharge affected by Dam Failure
+#   4 ... Discharge less than indicated value,
+#           which is Minimum Recordable Discharge at this site
+#   5 ... Discharge affected to unknown degree by
+#           Regulation or Diversion
+#   6 ... Discharge affected by Regulation or Diversion
+#   7 ... Discharge is an Historic Peak
+#   8 ... Discharge actually greater than indicated value
+#   9 ... Discharge due to Snowmelt, Hurricane,
+#           Ice-Jam or Debris Dam breakup
+#   A ... Year of occurrence is unknown or not exact
+#   Bd ... Day of occurrence is unknown or not exact
+#   Bm ... Month of occurrence is unknown or not exact
+#   C ... All or part of the record affected by Urbanization,
+#            Mining, Agricultural changes, Channelization, or other
+#   F ... Peak supplied by another agency
+#   O ... Opportunistic value not from systematic data collection
+#   R ... Revised
+#
+# Gage height qualification codes(gage_ht_cd,ag_gage_ht_cd):
+#   1 ... Gage height affected by backwater
+#   2 ... Gage height not the maximum for the year
+#   3 ... Gage height at different site and(or) datum
+#   4 ... Gage height below minimum recordable elevation
+#   5 ... Gage height is an estimate
+#   6 ... Gage datum changed during this year
+#   7 ... Debris, mud, or hyper-concentrated flow
+#   8 ... Gage height tidally affected
+#   Bd ... Day of occurrence is unknown or not exact
+#   Bm ... Month of occurrence is unknown or not exact
+#   F ... Peak supplied by another agency
+#   R ... Revised
+#
+#
+agency_cd	site_no	peak_dt	peak_tm	peak_va	peak_cd	gage_ht	gage_ht_cd	year_last_pk	ag_dt	ag_tm	ag_gage_ht	ag_gage_ht_cd
+5s	15s	10d	6s	8s	33s	8s	27s	4s	10d	6s	8s	27s
+USGS	06192500	1897-06-01		28100								
+USGS	06192500	1898-06-19		23900								
+USGS	06192500	1899-06-20		26300								
+USGS	06192500	1900-06-07		16900								
+USGS	06192500	1901-05-20		26500								
+USGS	06192500	1902-06-11		30100								
+USGS	06192500	1903-06-18		21300								
+USGS	06192500	1904-06-23		20100								
+USGS	06192500	1905-06-05		13800								
+USGS	06192500	1929-06-17		19000		7.42						
+USGS	06192500	1930-05-31		15500		6.61						
+USGS	06192500	1931-06-04		14200		6.31						
+USGS	06192500	1932-06-25		20800		7.76						
+USGS	06192500	1938-06-06		18300		7.60						
+USGS	06192500	1939-05-31		15400		6.89						
+USGS	06192500	1940-06-14		13100		6.30						
+USGS	06192500	1941-05-27		10600		5.40						
+USGS	06192500	1942-06-09		18500		7.55						
+USGS	06192500	1943-06-20		30600		9.34						
+USGS	06192500	1944-06-27		13500		6.06						
+USGS	06192500	1945-06-27		20400		7.60						
+USGS	06192500	1946-06-06		15800		6.75						
+USGS	06192500	1947-06-20		20600		7.85						
+USGS	06192500	1948-06-04		26800		9.10						
+USGS	06192500	1949-06-12		17500		6.88						
+USGS	06192500	1950-06-23		21400		7.82						
+USGS	06192500	1951-06-17		20000		7.58						
+USGS	06192500	1952-06-07		22800		8.20						
+USGS	06192500	1953-06-14		21200		7.75						
+USGS	06192500	1954-06-27		20400		7.49						
+USGS	06192500	1955-06-16		14900		6.29						
+USGS	06192500	1956-06-02		25800		8.57						
+USGS	06192500	1957-06-05		21900		7.71						
+USGS	06192500	1958-05-26		17100		6.64						
+USGS	06192500	1959-06-15		24200		8.43						
+USGS	06192500	1960-06-04		15700		6.21						
+USGS	06192500	1961-06-09		15600		6.47						
+USGS	06192500	1962-06-16		20400		7.33						
+USGS	06192500	1963-06-15		20200		7.32						
+USGS	06192500	1964-06-28		20200		7.32						
+USGS	06192500	1965-06-13		27900		8.11						
+USGS	06192500	1966-05-31		16000		6.37						
+USGS	06192500	1967-06-22		24900		7.98						
+USGS	06192500	1968-06-20		24600		7.91						
+USGS	06192500	1969-05-28		21200		7.23						
+USGS	06192500	1970-06-09		24400		7.87						
+USGS	06192500	1971-06-23		29200		8.45						
+USGS	06192500	1972-06-08		26700		8.10						
+USGS	06192500	1973-06-10		21100		7.18						
+USGS	06192500	1974-06-17		36300		9.21						
+USGS	06192500	1975-07-06		25700		8.17						
+USGS	06192500	1976-06-10		21400		7.51						
+USGS	06192500	1977-06-06		14200		5.78						
+USGS	06192500	1978-06-10		26000		7.87						
+USGS	06192500	1979-06-14		20100		7.05	2		1979-01-01		7.22	1
+USGS	06192500	1980-05-24		15000		6.11						
+USGS	06192500	1981-06-09		23800		7.72						
+USGS	06192500	1982-06-29		27900		8.62						
+USGS	06192500	1983-06-12		18600		6.93						
+USGS	06192500	1984-06-01		17900		6.95						
+USGS	06192500	1985-05-26		15200		6.14	2		1984-12-25		6.69	1
+USGS	06192500	1986-06-06		24000		8.10						
+USGS	06192500	1987-06-08		7450		4.21	2		1987-01-11		5.61	1
+USGS	06192500	1988-06-06		16200		6.48						
+USGS	06192500	1989-06-17		16200		6.60						
+USGS	06192500	1990-06-11		17200		6.81						
+USGS	06192500	1991-06-06		23000		7.89						
+USGS	06192500	1992-05-08		13800		5.92						
+USGS	06192500	1993-05-21		24000		8.07						
+USGS	06192500	1994-05-13		16900		6.73						
+USGS	06192500	1995-06-06		23700		8.01						
+USGS	06192500	1996-06-10		37100		9.97						
+USGS	06192500	1997-06-06		38000		10.72						
+USGS	06192500	1998-06-26		18800		7.95						
+USGS	06192500	1999-06-22		23400		8.67						
+USGS	06192500	2000-05-29		19300		8.12						
+USGS	06192500	2001-05-15		14800		7.10						
+USGS	06192500	2002-06-02		25900		8.85						
+USGS	06192500	2003-06-01		27200		9.46						
+USGS	06192500	2004-06-10		13300		7.16						
+USGS	06192500	2005-05-21		17900		8.04						
+USGS	06192500	2006-05-21		22600		8.80						
+USGS	06192500	2007-05-14		15200		7.55						
+USGS	06192500	2008-06-25		26300		9.52						
+USGS	06192500	2009-05-20		23500		9.08						
+USGS	06192500	2010-06-05		28100		9.23						
+USGS	06192500	2011-06-30		40600		10.15						
+USGS	06192500	2012-06-06		23500		8.48						
+USGS	06192500	2013-05-15		17900		7.64						
+USGS	06192500	2014-05-29		32700		9.70						
+USGS	06192500	2015-06-02		15600		7.63						
+USGS	06192500	2016-06-07		12800		7.01						
+USGS	06192500	2017-06-06		26300		9.62						
+USGS	06192500	2018-05-27	11:45	33600		10.18						
+USGS	06192500	2019-06-07	19:15	22800		8.72						
+USGS	06192500	2020-06-01	11:23	30600		10.20						
+USGS	06192500	2021-06-06	10:00	18500		7.79						
+USGS	06192500	2022-06-13	21:15	55200		11.63		1894				
+USGS	06192500	2023-05-23	09:45	22100		7.55						
+USGS	06192500	2024-06-10	13:45	24100		7.91						
+USGS	06192500	2025-06-02	09:30	20500		7.43						
